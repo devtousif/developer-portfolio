@@ -8,7 +8,7 @@ h1{
 .new-color{
     color: #bc1823;
 }
-section{
+.flexible-container{
     display: flex;
     margin-bottom: 0px;
 }
