@@ -1,0 +1,32 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0%;
+}
+h1{
+    font-size: 50px;
+}
+.new-color{
+    color: #bc1823;
+}
+section{
+    display: flex;
+}
+.half-width{
+    width: 50%;
+    padding-left: 8%;
+}
+.half-width img{
+    width: 80%;
+}
+.hire-button{
+    text-decoration: none;
+    background-color: #bc1823;
+    padding: 10px 40px;
+    color: #efefef;
+    font-weight: 700px;
+    border-radius: 25px;
+}
+.top-banner{
+    background-image: url(images/back1.png);
+    background-repeat: no-repeat;
+}
